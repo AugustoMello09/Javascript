@@ -10,7 +10,7 @@ function end() {
 }
 
 function not() {
-  return x != 10;
+  return x !== 10;
 }
 
 console.log("Função retorna: or", or());
